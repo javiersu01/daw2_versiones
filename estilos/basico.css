@@ -1,0 +1,19 @@
+#fondo{
+    background-color:antiquewhite;
+}
+hr{
+    border: dotted  blue;
+
+}
+
+@media screen and (max-width: 768px) {
+    /* Ajusta el tamaño del texto para pantallas más pequeñas */
+    p {
+        font-size: 14px;
+    }
+
+    /* Ajusta el tamaño del título para pantallas más pequeñas */
+    h1 {
+        font-size: 20px;
+    }
+}
